@@ -1,19 +1,26 @@
-choose(5,2)
 
-factorial(4)
+doble = function(x){2*x}
+b = doble(5)
 
-log(4^6, 4)
+suma1 = function(x){
+  y = x+1;
+  y;
+ 
+}
 
-log(6)
-log(6^4)
+suma5 = function(z){
+  z = suma1(z)
+  z = suma1(z)
+  z = suma1(z)
+  z= suma1(z)
+  suma1(z)
+}
 
-log(4^6,4)
+suma1(3)
 
-log(6^4,6)
+suma5(3)
 
-log(1296,6)
+y
+x
 
-
-
-
-log(1336336,34)
+ls()
