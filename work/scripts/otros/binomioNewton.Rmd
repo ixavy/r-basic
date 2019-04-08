@@ -1,0 +1,29 @@
+---
+title: "Binomio de Newton"
+author: "IXavy"
+date: "8/4/2019"
+output: pdf_document
+---
+
+# PRODUCTO NOTABLE
+
+La fórmula del producto notable es
+
+$$(a+b)^2 = a^2 +2ab + b^2$$
+
+## Función con R
+
+```{r}
+binomioNewton2 = function(a,b){
+  a^2+2*a*b+b^2
+}
+binomioNewton2(1,2)
+binomioNewton2(2,1)
+```
+
+# BINOMIO DE NEWTON
+
+$$(a+b)^2 = \sum_{k=n}^n {n\choose k}\cdot a^{n-k}\cdot b^k$$
+
+## Función con R
+
