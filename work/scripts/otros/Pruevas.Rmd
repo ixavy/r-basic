@@ -1,0 +1,29 @@
+```{r echo=FALSE} 
+c(1,2,3)
+c(rep(23,7),34) -> o
+```
+
+
+
+La longitud del vector $o$ `r o` es de `r length(o)`.
+
+La fórmula de la ecuación de segundo grado $\beta\pm(\sqrt\frac{\alpha+\frac{3}{2}}{\gamma^6})$ es igual a 37
+
+$\mathbb{mdsmdsmsd}$
+
+## Esto es un título de segundo nivel
+
+*Esto es una cursiva*
+
+Esto es una **negrita**
+
+Intentemos una lista desordenada:
+
+- Uno
+  * Uno uno
+- Dos
+
+
+
+  
+  

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.28)  30 MAR 2019 19:14
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.4)  5 APR 2019 19:12
+>>>>>>> rmd-tests
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,7 +1123,11 @@ l.125 \begin{document}
                        
 Here is how much of TeX's memory you used:
  20333 strings out of 492649
+<<<<<<< HEAD
  378062 string characters out of 6129622
+=======
+ 378062 string characters out of 6129623
+>>>>>>> rmd-tests
  485309 words of memory out of 5000000
  23809 multiletter control sequences out of 15000+600000
  7990 words of font info for 20 fonts, out of 8000000 for 9000
