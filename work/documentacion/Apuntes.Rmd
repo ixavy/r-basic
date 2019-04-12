@@ -1,0 +1,11 @@
+---
+title: "Apuntes"
+author: "iXavy"
+date: "8/4/2019"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
