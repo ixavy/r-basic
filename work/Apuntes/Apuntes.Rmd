@@ -1,0 +1,42 @@
+---
+title: "Apuntes"
+author: "iXavy"
+date: "8/4/2019"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+# Logaritmos
+
+
+
+*Descripción*: Es el exponente al que debemos elevar la base para obtener la incógnita.
+
+**Tipos:**
+
+* Neperianos (base $e$): $log(x)$. *Número al que elevar $e$ para dar $x$.* $$log(23) =`r log(23)` \longmapsto  e^{`r log(23)`}=23$$.
+* Base 10: $log10(x)$. *Número al que hay que elevar $10$ para dar $x$.*
+* Base $\alpha$: $log(x,\alpha)$. *Número al que hay que elevar $\alpha$ para dar $x$.*
+
+El número $e$ se representa por $exp(1)$, ya que $e^1 = e$, y $exp(x)$ es el resultado de elevar el número $e$ a $x$.
+
+# Coeficiente Binomial
+
+El coeficiente binomial ${n\choose k}$ es el número de subconjuntos de $k$ elementos escogidos de un conjunto con $n$ elementos.
+
+Está dado por la fórmula ${{n \choose k}={\frac {n!}{k!(n-k)!}}}$.
+
+# Trigonometría
+
+Las funciones trigonométricas son siempre en **radianes**.
+
+Básicas     | Inversas   |               Arcos           |
+------------|------------|-------------------------------|
+Seno        |Cosecante  $\frac{1}{\sin\alpha}$ |Arcoseno. **Arco de $\sin = x$**   | 
+Coseno      |Secante    $\frac{1}{\cos\alpha}$ |Arcocoseno. **Arco de $\cos = x$**  |
+Tangente    |Cotangente $\frac{1}{\tan\alpha}$ |Arcotangente. **Arco de $\tan = x$**|
+
+
